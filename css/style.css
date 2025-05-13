@@ -36,13 +36,11 @@ main#container {
   font-weight: bold;
   color: #000;
   margin-bottom: 15px;
-  line-height: 50px;
 }
 .subtext {
   font-size: 16px;
   color: #555;
   margin-bottom: 20px;
-  line-height: 25px;
 }
 
 .subtext b {
